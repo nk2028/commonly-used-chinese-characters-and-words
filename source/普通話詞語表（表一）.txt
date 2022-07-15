@@ -31,7 +31,7 @@
 凹	āo
 熬	āo
 熬	áo
-奧秘	àomì
+奧祕	àomì
 奧運會	Àoyùnhuì
 *八	bā
 巴	bā
@@ -369,6 +369,7 @@
 財力	cáilì
 財務	cáiwù
 *財政	cáizhèng
+*纔	cái
 彩	cǎi
 彩色	cǎisè
 *採	cǎi
@@ -486,7 +487,7 @@
 朝廷	cháotíng
 潮	cháo
 潮流	cháoliú
-潮濕	cháoshī
+潮溼	cháoshī
 吵	chǎo
 炒	chǎo
 *車	chē
@@ -530,7 +531,7 @@
 成年	chéngnián
 *成人	chéngrén
 *成熟	chéngshú
-*成為	chéngwéi
+*成爲	chéngwéi
 成效	chéngxiào
 成語	chéngyŭ
 *成員	chéngyuán
@@ -557,10 +558,10 @@
 *盛	chéng
 懲罰	chéngfá
 秤	chèng
-*吃	chī
-*吃飯	chīfàn
-吃驚	chījīng
-吃力	chīlì
+*喫	chī
+*喫飯	chīfàn
+喫驚	chījīng
+喫力	chīlì
 *池	chí
 池塘	chítáng
 *持	chí
@@ -685,7 +686,7 @@
 春節	chūnjié
 春秋	chūnqiū
 *春天	chūntiān
-唇	chún
+脣	chún
 *純	chún
 純粹	chúncuì
 純潔	chúnjié
@@ -809,7 +810,7 @@
 *大約	dàyuē
 大戰	dàzhàn
 *大致	dàzhì
-大眾	dàzhòng
+大衆	dàzhòng
 大自然	dàzìrán
 *呆	dāi
 *待	dāi
@@ -998,8 +999,8 @@
 電器	diànqì
 *電視	diànshì
 電視劇	diànshìjù
-電視台	diànshìtái
-電台	diàntái
+電視臺	diànshìtái
+電臺	diàntái
 電線	diànxiàn
 *電壓	diànyā
 *電影	diànyǐng
@@ -1239,7 +1240,7 @@
 *方	fāng
 *方案	fāng'àn
 *方便	fāngbiàn
-方才	fāngcái
+方纔	fāngcái
 *方程	fāngchéng
 *方法	fāngfǎ
 *方面	fāngmiàn
@@ -1462,7 +1463,7 @@
 *幹	gàn
 *幹部	gànbù
 *剛	gāng
-*剛才	gāngcái
+*剛纔	gāngcái
 *綱	gāng
 綱領	gānglǐng
 *鋼	gāng
@@ -1671,7 +1672,7 @@
 *觀點	guāndiǎn
 觀看	guānkàn
 *觀念	guānniàn
-*觀眾	guānzhòng
+*觀衆	guānzhòng
 *管	guǎn
 管道	guǎndào
 *管理	guǎnlǐ
@@ -1843,8 +1844,9 @@
 和尚	hé·shang
 *和諧	héxié
 *核	hé
-核算	hésuàn
+覈算	hésuàn
 *核心	héxīn
+覈	hé
 盒	hé
 頜	hé
 *和	hè
@@ -2110,7 +2112,7 @@
 極端	jíduān
 極力	jílì
 *極其	jíqí
-*極為	jíwéi
+*極爲	jíwéi
 *疾病	jíbìng
 己	jǐ
 脊	jǐ
@@ -2331,7 +2333,7 @@
 *教育	jiàoyù
 教員	jiàoyuán
 *較	jiào
-*較為	jiàowéi
+*較爲	jiàowéi
 *覺	jiào
 *皆	jiē
 階層	jiēcéng
@@ -2638,7 +2640,7 @@
 *考	kǎo
 *考察	kǎochá
 考古	kǎogŭ
-考核	kǎohé
+考覈	kǎohé
 *考慮	kǎolǜ
 *考試	kǎoshì
 考驗	kǎoyàn
@@ -3136,8 +3138,8 @@
 彌補	míbŭ
 瀰漫	mímàn
 *米	mǐ
-*秘密	mìmì
-秘書	mìshū
+*祕密	mìmì
+祕書	mìshū
 *密	mì
 *密度	mìdù
 密集	mìjí
@@ -3172,7 +3174,7 @@
 *民間	mínjiān
 民事	mínshì
 民俗	mínsú
-民眾	mínzhòng
+民衆	mínzhòng
 *民主	mínzhŭ
 *民族	mínzú
 敏感	mǐngǎn
@@ -3553,8 +3555,8 @@
 起身	qǐshēn
 *起義	qǐyì
 *起源	qǐyuán
-*啟發	qǐfā
-啟示	qǐshì
+*啓發	qǐfā
+啓示	qǐshì
 *汽車	qìchē
 汽油	qìyóu
 *氣	qì
@@ -3765,7 +3767,7 @@
 *群	qún
 群落	qúnluò
 *群體	qúntǐ
-*群眾	qúnzhòng
+*群衆	qúnzhòng
 *然	rán
 *然而	rán'ér
 *然後	ránhòu
@@ -3808,7 +3810,7 @@
 人士	rénshì
 人事	rénshì
 *人體	réntǐ
-人為	rénwéi
+人爲	rénwéi
 *人物	rénwù
 人心	rénxīn
 人性	rénxìng
@@ -3828,7 +3830,7 @@
 認	rèn
 認定	rèndìng
 *認識	rèn·shi
-*認為	rènwéi
+*認爲	rènwéi
 *認真	rènzhēn
 扔	rēng
 *仍	réng
@@ -4038,7 +4040,7 @@
 *神	shén
 *神話	shénhuà
 *神經	shénjīng
-*神秘	shénmì
+*神祕	shénmì
 神奇	shénqí
 神氣	shén·qì
 神情	shénqíng
@@ -4115,9 +4117,9 @@
 詩歌	shīgē
 *詩人	shīrén
 詩意	shīyì
-*濕	shī
-濕度	shīdù
-濕潤	shīrùn
+*溼	shī
+溼度	shīdù
+溼潤	shīrùn
 *十	shí
 *石	shí
 石灰	shíhuī
@@ -4447,9 +4449,9 @@
 *踏	tà
 胎	tāi
 胎兒	tāi'ér
-*台	tái
-*抬	tái
-抬頭	táitóu
+*臺	tái
+*擡	tái
+擡頭	táitóu
 颱風	táifēng
 *太	tài
 太空	tàikōng
@@ -4589,7 +4591,7 @@
 *聽見	tīng·jiàn
 聽覺	tīngjué
 聽取	tīngqŭ
-聽眾	tīngzhòng
+聽衆	tīngzhòng
 廳	tīng
 *停	tíng
 停頓	tíngdùn
@@ -4782,11 +4784,11 @@
 *微微	wēiwēi
 微小	wēixiǎo
 *微笑	wēixiào
-*為	wéi
-為難	wéinán
-為人	wéirén
-為首	wéishŏu
-*為止	wéizhǐ
+*爲	wéi
+爲難	wéinán
+爲人	wéirén
+爲首	wéishŏu
+*爲止	wéizhǐ
 唯	wéi
 惟	wéi
 *維持	wéichí
@@ -4809,7 +4811,7 @@
 *偉大	wěidà
 緯	wěi
 緯度	wěidù
-偽	wěi
+僞	wěi
 *未	wèi
 未必	wèibì
 未曾	wèicéng
@@ -4821,9 +4823,9 @@
 *胃	wèi
 *謂	wèi
 *喂	wèi
-*為	wèi
-為何	wèihé
-*為了	wèi·le
+*爲	wèi
+爲何	wèihé
+*爲了	wèi·le
 衛	wèi
 *衛生	wèishēng
 *衛星	wèixīng
@@ -4898,7 +4900,7 @@
 *舞	wŭ
 *舞蹈	wŭdǎo
 舞劇	wŭjù
-*舞台	wŭtái
+*舞臺	wŭtái
 勿	wù
 *物	wù
 物化	wùhuà
@@ -5069,7 +5071,7 @@
 箱	xiāng
 箱子	xiāng·zi
 *香	xiāng
-香煙	xiāngyān
+香菸	xiāngyān
 *鄉	xiāng
 *鄉村	xiāngcūn
 鄉下	xiāng·xia
@@ -5226,7 +5228,7 @@
 行人	xíngrén
 *行使	xíngshǐ
 行駛	xíngshǐ
-*行為	xíngwéi
+*行爲	xíngwéi
 *行星	xíngxīng
 *行政	xíngzhèng
 行走	xíngzŏu
@@ -5345,6 +5347,7 @@
 咽	yān
 *煙	yān
 煙囪	yān·cōng
+*菸	yān
 *延長	yáncháng
 延伸	yánshēn
 延續	yánxù
@@ -5538,7 +5541,7 @@
 *以前	yǐqián
 *以外	yǐwài
 *以往	yǐwǎng
-*以為	yǐwéi
+*以爲	yǐwéi
 *以下	yǐxià
 *以至	yǐzhì
 *以致	yǐzhì
@@ -5584,7 +5587,7 @@
 *因而	yīn'ér
 因果	yīnguŏ
 *因素	yīnsù
-*因為	yīn·wèi
+*因爲	yīn·wèi
 *音	yīn
 音調	yīndiào
 音階	yīnjiē
@@ -5671,7 +5674,7 @@
 優質	yōuzhì
 尤	yóu
 *尤其	yóuqí
-尤為	yóuwéi
+尤爲	yóuwéi
 *由	yóu
 *由於	yóuyú
 *油	yóu
@@ -5858,7 +5861,7 @@
 早上	zǎo·shang
 *早已	zǎoyǐ
 藻	zǎo
-灶	zào
+竈	zào
 *造	zào
 造就	zàojiù
 造型	zàoxíng
@@ -5981,7 +5984,8 @@
 *真正	zhēnzhèng
 *針	zhēn
 *針對	zhēnduì
-針灸	zhēnjiŭ
+鍼	zhēn
+鍼灸	zhēnjiŭ
 偵查	zhēnchá
 偵察	zhēnchá
 枕頭	zhěn·tou
@@ -6186,9 +6190,9 @@
 *重要	zhòngyào
 *種	zhòng
 *種植	zhòngzhí
-*眾	zhòng
-*眾多	zhòngduō
-眾人	zhòngrén
+*衆	zhòng
+*衆多	zhòngduō
+衆人	zhòngrén
 *州	zhōu
 *周	zhōu
 *周圍	zhōuwéi
@@ -6402,12 +6406,12 @@
 *鑽	zuàn
 *嘴	zuǐ
 嘴巴	zuǐ·ba
-*嘴唇	zuǐchún
+*嘴脣	zuǐchún
 *最	zuì
 *最初	zuìchū
 *最後	zuìhòu
 *最近	zuìjìn
-*最為	zuìwéi
+*最爲	zuìwéi
 *最終	zuìzhōng
 *罪	zuì
 罪惡	zuì'è
@@ -6431,7 +6435,7 @@
 *作風	zuòfēng
 *作家	zuòjiā
 *作品	zuòpǐn
-*作為	zuòwéi
+*作爲	zuòwéi
 *作物	zuòwù
 *作業	zuòyè
 *作用	zuòyòng

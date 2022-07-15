@@ -323,7 +323,7 @@
 荸薺	bí·qí
 鼻樑	bíliáng
 鼻塞	bísè
-鼻煙壺	bíyānhú
+鼻菸壺	bíyānhú
 比比皆是	bǐbǐjiēshì
 比對	bǐduì
 比方	bǐ·fang
@@ -399,7 +399,7 @@
 貶值	biǎnzhí
 便當	biàn·dang
 便箋	biànjiān
-便秘	biànmì
+便祕	biànmì
 便服	biànfú
 *便捷	biànjié
 便裝	biànzhuāng
@@ -611,7 +611,7 @@
 不言而喻	bùyán'éryù
 不夜城	bùyèchéng
 不遺餘力	bùyíyúlì
-不以為然	bùyǐwéirán
+不以爲然	bùyǐwéirán
 不翼而飛	bùyì'érfēi
 不由自主	bùyóuzìzhŭ
 不虞	bùyú
@@ -624,7 +624,7 @@
 不知所終	bùzhīsuŏzhōng
 不只	bùzhǐ
 不至於	bùzhìyú
-不足為奇	bùzúwéiqí
+不足爲奇	bùzúwéiqí
 布包	bùbāo
 布料	bùliào
 *佈景	bùjǐng
@@ -762,7 +762,7 @@
 茶藝	cháyì
 茶園	cháyuán
 茶莊	cházhuāng
-查核	cháhé
+查覈	cháhé
 查看	chákàn
 查問	cháwèn
 *查詢	cháxún
@@ -984,11 +984,11 @@
 橙汁	chéngzhī
 懲	chéng
 懲處	chéngchŭ
-吃不消	chī·bùxiāo
-吃醋	chīcù
-吃虧	chīkuī
-吃喝兒	chīhēr
-吃香	chīxiāng
+喫不消	chī·bùxiāo
+喫醋	chīcù
+喫虧	chīkuī
+喫喝兒	chīhēr
+喫香	chīxiāng
 馳騁	chíchĕng
 馳名	chímíng
 *持平	chípíng
@@ -1116,7 +1116,7 @@
 出使	chūshǐ
 *出示	chūshì
 *出世	chūshì
-*出台	chūtái
+*出臺	chūtái
 出庭	chūtíng
 *出頭	chūtóu
 出外	chūwài
@@ -1380,7 +1380,7 @@
 大班	dàbān
 大飽口福	dàbǎokŏufú
 大不了	dà·bùliǎo
-大吃一驚	dàchīyījīng
+大喫一驚	dàchīyījīng
 大刀闊斧	dàdāokuòfŭ
 *大道	dàdào
 大動脈	dàdòngmài
@@ -2168,7 +2168,7 @@
 風騷	fēngsāo
 風扇	fēngshàn
 風聲	fēngshēng
-風濕病	fēngshībìng
+風溼病	fēngshībìng
 風勢	fēngshì
 風霜	fēngshuāng
 *風水	fēng·shuǐ
@@ -2309,7 +2309,7 @@
 複製品	fùzhìpǐn
 覆	fù
 覆蓋面	fùgàimiàn
-*覆核	fùhé
+*覆覈	fùhé
 覆水難收	fùshuǐnánshōu
 賦閒	fùxián
 縛	fù
@@ -2503,7 +2503,7 @@
 *公證人	gōngzhèngrén
 公證書	gōngzhèngshū
 *公職	gōngzhí
-*公眾	gōngzhòng
+*公衆	gōngzhòng
 弓箭	gōngjiàn
 躬	gōng
 功不可沒	gōngbùkĕmò
@@ -2633,7 +2633,7 @@
 掛賬	guàzhàng
 乖	guāi
 乖巧	guāiqiǎo
-枴杖	guǎizhàng
+柺杖	guǎizhàng
 怪不得	guài·bù·dé
 怪誕	guàidàn
 怪異	guàiyì
@@ -2916,10 +2916,10 @@
 核彈	hédàn
 核彈頭	hédàntóu
 核電	hédiàn
-*核對	héduì
+*覈對	héduì
 核能	hénéng
-*核實	héshí
-*核准	hézhŭn
+*覈實	héshí
+*覈准	hézhŭn
 核子	hézǐ
 荷爾蒙	hé'ĕrméng
 荷花	héhuā
@@ -2998,7 +2998,7 @@
 後起之秀	hòuqǐzhīxiù
 *後勤	hòuqín
 後嗣	hòusì
-後台	hòutái
+後臺	hòutái
 後衛	hòuwèi
 後遺症	hòuyízhèng
 後裔	hòuyì
@@ -3088,8 +3088,8 @@
 滑行	huáxíng
 *滑雪	huáxuĕ
 *化身	huàshēn
-化為烏有	huàwéiwūyŏu
-化險為夷	huàxiǎnwéiyí
+化爲烏有	huàwéiwūyŏu
+化險爲夷	huàxiǎnwéiyí
 *化驗	huàyàn
 畫冊	huàcè
 畫風	huàfēng
@@ -3243,7 +3243,7 @@
 混沌	hùndùn
 *混和	hùnhé
 混日子	hùnrì·zi
-混為一談	hùnwéiyītán
+混爲一談	hùnwéiyītán
 混血兒	hùnxuè'ér
 混雜	hùnzá
 混戰	hùnzhàn
@@ -3336,7 +3336,7 @@
 饑饉	jījǐn
 畸型	jīxíng
 稽查	jīchá
-稽核	jīhé
+稽覈	jīhé
 激昂	jī'áng
 激蕩	jīdàng
 激流	jīliú
@@ -3778,7 +3778,7 @@
 戒毒	jièdú
 戒毒所	jièdúsuŏ
 戒心	jièxīn
-*戒煙	jièyān
+*戒菸	jièyān
 戒指	jiè·zhi
 *屆滿	jièmǎn
 *屆時	jièshí
@@ -3847,7 +3847,7 @@
 禁	jìn
 禁忌	jìnjì
 禁令	jìnlìng
-禁煙	jìnyān
+禁菸	jìnyān
 禁運	jìnyùn
 *盡情	jìnqíng
 盡善盡美	jìnshànjìnmĕi
@@ -4124,7 +4124,7 @@
 開朗	kāilǎng
 開鑼	kāiluó
 開盤	kāipán
-開啟	kāiqǐ
+開啓	kāiqǐ
 開腔	kāiqiāng
 開槍	kāiqiāng
 開竅	kāiqiào
@@ -4166,7 +4166,7 @@
 看客	kànkè
 看破	kànpò
 看齊	kànqí
-看台	kàntái
+看臺	kàntái
 看中	kànzhòng
 看準	kànzhŭn
 康	kāng
@@ -4613,7 +4613,7 @@
 亮麗	liànglì
 亮相	liàngxiàng
 量化	liànghuà
-量入為出	liàngrùwéichū
+量入爲出	liàngrùwéichū
 量刑	liàngxíng
 晾	liàng
 晾曬	liàngshài
@@ -4788,7 +4788,7 @@
 露骨	lùgŭ
 露水	lù·shuǐ
 露宿	lùsù
-*露台	lùtái
+*露臺	lùtái
 *露天	lùtiān
 露營	lùyíng
 *旅程	lǚchéng
@@ -4997,10 +4997,10 @@
 *米飯	mǐfàn
 米糠	mǐkāng
 米線	mǐxiàn
-秘	mì
-秘方	mìfāng
-秘笈	mìjí
-秘訣	mìjué
+祕	mì
+祕方	mìfāng
+祕笈	mìjí
+祕訣	mìjué
 密不可分	mìbùkĕfēn
 密佈	mìbù
 *密封	mìfēng
@@ -5222,8 +5222,8 @@
 難點	nándiǎn
 *難度	nándù
 *難忘	nánwàng
-難為	nán·wei
-難為情	nánwéiqíng
+難爲	nán·wei
+難爲情	nánwéiqíng
 難以置信	nányǐzhìxìn
 囊括	nángkuò
 惱	nǎo
@@ -5443,7 +5443,7 @@
 *泡沫	pàomò
 炮兵	pàobīng
 炮轟	pàohōng
-*炮台	pàotái
+*炮臺	pàotái
 炮仗	pào·zhang
 培	péi
 培植	péizhí
@@ -5595,7 +5595,7 @@
 平民化	píngmínhuà
 平實	píngshí
 平手	píngshŏu
-*平台	píngtái
+*平臺	píngtái
 平息	píngxī
 平心靜氣	píngxīnjìngqì
 平易近人	píngyìjìnrén
@@ -5701,12 +5701,12 @@
 企鵝	qǐ'é
 乞丐	qǐgài
 豈止	qǐzhǐ
-啟	qǐ
-啟迪	qǐdí
-*啟動	qǐdòng
-啟航	qǐháng
-啟蒙	qǐméng
-*啟用	qǐyòng
+啓	qǐ
+啓迪	qǐdí
+*啓動	qǐdòng
+啓航	qǐháng
+啓蒙	qǐméng
+*啓用	qǐyòng
 *起步	qǐbù
 起程	qǐchéng
 起床	qǐchuáng
@@ -6492,7 +6492,7 @@
 神州	Shénzhōu
 嬸嬸	shĕn·shen
 審	shĕn
-*審核	shĕnhé
+*審覈	shĕnhé
 *審計	shĕnjì
 審結	shĕnjié
 *審批	shĕnpī
@@ -6625,8 +6625,8 @@
 詩壇	shītán
 詩體	shītǐ
 詩文	shīwén
-*濕地	shīdì
-濕熱	shīrè
+*溼地	shīdì
+溼熱	shīrè
 十全十美	shíquánshímĕi
 十字架	shízìjià
 *十足	shízú
@@ -7183,7 +7183,7 @@
 探險	tànxiǎn
 探尋	tànxún
 探知	tànzhī
-嘆為觀止	tànwéiguānzhǐ
+嘆爲觀止	tànwéiguānzhǐ
 *湯匙	tāngchí
 湯圓	tāngyuán
 唐樓	tánglóu
@@ -7635,7 +7635,7 @@
 萬事	wànshì
 萬無一失	wànwúyīshī
 萬物	wànwù
-萬眾	wànzhòng
+萬衆	wànzhòng
 萬紫千紅	wànzǐqiānhóng
 腕	wàn
 亡魂	wánghún
@@ -7680,7 +7680,7 @@
 微妙	wēimiào
 微型	wēixíng
 巍峨	wēi'é
-為所欲為	wéisuŏyùwéi
+爲所欲爲	wéisuŏyùwéi
 *唯一	wéiyī
 惟獨	wéidú
 惟有	wéiyŏu
@@ -7711,9 +7711,9 @@
 萎	wĕi
 萎縮	wĕisuō
 偉	wĕi
-*偽造	wĕizào
-偽證	wĕizhèng
-偽裝	wĕizhuāng
+*僞造	wĕizào
+僞證	wĕizhèng
+僞裝	wĕizhuāng
 未嘗	wèicháng
 未婚	wèihūn
 未幾	wèijǐ
@@ -7818,7 +7818,7 @@
 無名指	wúmíngzhǐ
 *無奈	wúnài
 無能	wúnéng
-無能為力	wúnéngwéilì
+無能爲力	wúnéngwéilì
 無窮無盡	wúqióngwújìn
 無時無刻	wúshíwúkè
 無視	wúshì
@@ -7923,7 +7923,7 @@
 膝	xī
 膝蓋	xīgài
 席捲	xíjuǎn
-習以為常	xíyǐwéicháng
+習以爲常	xíyǐwéicháng
 習字	xízì
 習作	xízuò
 襲	xí
@@ -8079,7 +8079,7 @@
 相像	xiāngxiàng
 相形見絀	xiāngxíngjiànchù
 相依	xiāngyī
-相依為命	xiāngyīwéimìng
+相依爲命	xiāngyīwéimìng
 相宜	xiāngyí
 相異	xiāngyì
 相遇	xiāngyù
@@ -8144,7 +8144,7 @@
 硝	xiāo
 *銷量	xiāoliàng
 *小巴	xiǎobā
-小吃	xiǎochī
+小喫	xiǎochī
 小丑	xiǎochŏu
 小調	xiǎodiào
 小販	xiǎofàn
@@ -8541,9 +8541,9 @@
 胭脂	yān·zhi
 淹	yān
 *煙花	yānhuā
-煙灰	yānhuī
+菸灰	yānhuī
 煙火	yānhuŏ
-煙癮	yānyǐn
+菸癮	yānyǐn
 嫣紅	yānhóng
 燕	Yān
 延	yán
@@ -8629,7 +8629,7 @@
 *陽曆	yánglì
 陽平	yángpíng
 陽傘	yángsǎn
-陽台	yángtái
+陽臺	yángtái
 陽性	yángxìng
 楊柳	yángliŭ
 仰慕	yǎngmù
@@ -8782,7 +8782,7 @@
 醫師	yīshī
 醫學院	yīxuéyuàn
 夷	yí
-夷為平地	yíwéipíngdì
+夷爲平地	yíwéipíngdì
 姨	yí
 姨父	yí·fu
 姨媽	yímā
@@ -8932,7 +8932,7 @@
 引退	yǐntuì
 引文	yǐnwén
 引言	yǐnyán
-引以為榮	yǐnyǐwéiróng
+引以爲榮	yǐnyǐwéiróng
 引證	yǐnzhèng
 *引致	yǐnzhì
 *飲料	yǐnliào
@@ -9274,7 +9274,7 @@
 月刊	yuèkān
 月曆	yuèlì
 月食	yuèshí
-*月台	yuètái
+*月臺	yuètái
 *月薪	yuèxīn
 岳	yuè
 岳父	yuèfù
@@ -9305,7 +9305,7 @@
 暈倒	yūndǎo
 暈厥	yūnjué
 暈眩	yūnxuàn
-芸芸眾生	yúnyúnzhòngshēng
+芸芸衆生	yúnyúnzhòngshēng
 雲層	yúncéng
 雲集	yúnjí
 雲梯	yúntī
@@ -9539,7 +9539,7 @@
 真切	zhēnqiè
 *真情	zhēnqíng
 真確	zhēnquè
-真偽	zhēnwĕi
+真僞	zhēnwĕi
 *真相	zhēnxiàng
 真心	zhēnxīn
 真知灼見	zhēnzhīzhuójiàn
@@ -9807,9 +9807,9 @@
 重用	zhòngyòng
 重鎮	zhòngzhèn
 重症	zhòngzhèng
-眾矢之的	zhòngshǐzhīdì
-眾所周知	zhòngsuŏzhōuzhī
-眾望所歸	zhòngwàngsuŏguī
+衆矢之的	zhòngshǐzhīdì
+衆所周知	zhòngsuŏzhōuzhī
+衆望所歸	zhòngwàngsuŏguī
 舟	zhōu
 周會	zhōuhuì
 *周全	zhōuquán
@@ -10026,7 +10026,7 @@
 自修	zìxiū
 自選	zìxuǎn
 自言自語	zìyánzìyŭ
-自以為是	zìyǐwéishì
+自以爲是	zìyǐwéishì
 自圓其說	zìyuánqíshuō
 自怨自艾	zìyuànzìyì
 自制	zìzhì
@@ -10154,3 +10154,4 @@
 做生意	zuòshēng·yi
 *做事	zuòshì
 做作	zuò·zuo
+天台山	Tiāntāi Shān
