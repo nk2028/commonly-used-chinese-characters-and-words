@@ -2012,7 +2012,7 @@
 返潮	fǎncháo
 返璞歸真	fǎnpúguīzhēn
 犯案	fàn'àn
-犯不著	fàn·buzháo
+犯不着	fàn·buzháo
 犯規	fànguī
 犯賤	fànjiàn
 販	fàn
@@ -2455,7 +2455,7 @@
 根治	gēnzhì
 跟從	gēncóng
 *跟進	gēnjìn
-*跟著	gēn·zhe
+*跟着	gēn·zhe
 *更換	gēnghuàn
 更年期	gēngniánqī
 *更生	gēngshēng
@@ -8769,7 +8769,7 @@
 衣飾	yīshì
 衣袖	yīxiù
 *衣物	yīwù
-衣著	yīzhuó
+衣着	yīzhuó
 依存	yīcún
 依歸	yīguī
 依戀	yīliàn
@@ -9498,7 +9498,7 @@
 朝思暮想	zhāosīmùxiǎng
 朝霞	zhāoxiá
 朝陽	zhāoyáng
-著迷	zháomí
+着迷	zháomí
 爪	zhǎo
 *找尋	zhǎoxún
 召	zhào
@@ -9671,7 +9671,7 @@
 *執業	zhíyè
 執掌	zhízhǎng
 *執照	zhízhào
-*執著	zhízhuó
+*執着	zhízhuó
 職場	zhíchǎng
 職級	zhíjí
 職守	zhíshŏu
@@ -9973,11 +9973,11 @@
 卓有成效	zhuóyŏuchéngxiào
 茁壯	zhuózhuàng
 啄	zhuó
-著筆	zhuóbǐ
-著地	zhuódì
-著陸	zhuólù
-著實	zhuóshí
-著眼	zhuóyǎn
+着筆	zhuóbǐ
+着地	zhuódì
+着陸	zhuólù
+着實	zhuóshí
+着眼	zhuóyǎn
 擢升	zhuóshēng
 鐲子	zhuó·zi
 姿	zī

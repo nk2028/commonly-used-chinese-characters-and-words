@@ -1,5 +1,9 @@
 # 漢語常用字詞表
 
+## 已知問題
+
+- [x] 原表中「著」、「着」用法混亂，今從 OpenCC 標準作「著」zyu3、「着」zoek6
+
 ## 資料格式
 
 - `char.txt`
@@ -19,4 +23,5 @@
 
 ```sh
 python scripts/extract_char.py
+python scripts/extract_word.py
 ```

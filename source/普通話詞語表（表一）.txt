@@ -506,7 +506,7 @@
 *沉默	chénmò
 沉思	chénsī
 *沉重	chénzhòng
-沉著	chénzhuó
+沉着	chénzhuó
 *陳	chén
 陳舊	chénjiù
 陳述	chénshù
@@ -643,7 +643,7 @@
 觸	chù
 川	chuān
 *穿	chuān
-*穿著	chuānzhuó
+*穿着	chuānzhuó
 *船	chuán
 船舶	chuánbó
 船長	chuánzhǎng
@@ -1389,7 +1389,7 @@
 附	fù
 附加	fùjiā
 *附近	fùjìn
-附著	fùzhuó
+附着	fùzhuó
 *服	fù
 *負	fù
 *負擔	fùdān
@@ -6303,9 +6303,9 @@
 *捉	zhuō
 桌	zhuō
 *桌子	zhuō·zi
-*著	zhuó
-著手	zhuóshŏu
-*著重	zhuózhòng
+*着	zhuó
+着手	zhuóshŏu
+*着重	zhuózhòng
 卓越	zhuóyuè
 琢磨	zhuómó
 咨詢	zīxún
